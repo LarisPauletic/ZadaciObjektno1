@@ -1,0 +1,7 @@
+C:\Users\Učenik6\source\repos\ZadaciObjektno1\ZadaciObjektno1\obj\Debug\ZadaciObjektno1.csprojAssemblyReference.cache
+C:\Users\Učenik6\source\repos\ZadaciObjektno1\ZadaciObjektno1\obj\Debug\ZadaciObjektno1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik6\source\repos\ZadaciObjektno1\ZadaciObjektno1\bin\Debug\ZadaciObjektno1.exe.config
+C:\Users\Učenik6\source\repos\ZadaciObjektno1\ZadaciObjektno1\bin\Debug\ZadaciObjektno1.exe
+C:\Users\Učenik6\source\repos\ZadaciObjektno1\ZadaciObjektno1\bin\Debug\ZadaciObjektno1.pdb
+C:\Users\Učenik6\source\repos\ZadaciObjektno1\ZadaciObjektno1\obj\Debug\ZadaciObjektno1.exe
+C:\Users\Učenik6\source\repos\ZadaciObjektno1\ZadaciObjektno1\obj\Debug\ZadaciObjektno1.pdb
